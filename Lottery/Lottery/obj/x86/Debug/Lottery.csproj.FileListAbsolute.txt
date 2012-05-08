@@ -1,0 +1,14 @@
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\Lottery.exe
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\Lottery.pdb
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.Properties.Resources.resources
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.exe
+c:\users\markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.pdb
+C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\BiazedLib.dll
+C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.Lottery.resources
+C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\Lottery.exe.manifest
+C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\Lottery.application
+C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.exe.manifest
+C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.application
