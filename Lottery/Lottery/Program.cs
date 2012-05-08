@@ -13,6 +13,7 @@ namespace Lottery
         [STAThread]
         static void Main()
         {
+            //Some Comments
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Lottery());

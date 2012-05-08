@@ -12,3 +12,5 @@ C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\
 C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\Lottery.application
 C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.exe.manifest
 C:\Users\Markku\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.application
+C:\Users\Markku\Desktop\git\CSharp\Lottery\Lottery\obj\x86\Debug\Lottery.exe
+C:\Users\Markku\Desktop\git\CSharp\Lottery\Lottery\obj\x86\Debug\Lottery.pdb
